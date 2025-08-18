@@ -17,7 +17,7 @@ I’m also developing a specialized AI prompt language (DSL) to bring more struc
 
 [Learn more about my Education & Credentials](Certifications.md).  
 
-[Explore more of my Desig nwork ](https://github.com/JoelRobbinsAI/Design_Work.git)
+[Explore more of my Design nwork ](https://github.com/JoelRobbinsAI/Design_Work.git)
 
 [Explore PromptLang DSL](https://github.com/JoelRobbinsAI/PromptLang.git)
 
