@@ -8,7 +8,7 @@
 
 ​Ba Gua & Tai Chi Instructor, Wutang Physical Culture Association, New York NY, August, 2004
 
-​AI Certifications
+**​AI Certifications**
 
 ​AI Agent Developer Specialization (6 courses), Vanderbilt University, Nashville, TN, July 27, 2025
 
