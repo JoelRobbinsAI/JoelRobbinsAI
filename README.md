@@ -15,3 +15,7 @@ I build real-world AI assistants that maintain a persona and interact naturally 
 The agents I build serve practical purposes, from assisting users with content creation, health coaching, and assessment, to supporting complex workflows in trading or other tasks. Each agent is structured to provide dynamic, context-aware interactions tailored to the user’s needs, maintaining a natural, ongoing dialogue while delivering actionable results.
 
 I’m also developing a specialized AI prompt language (DSL) to bring more structure and efficiency to prompt engineering. Still evolving, this work reflects my commitment to creating practical, scalable AI interactions. I’m continually refining my skills and learning new tools, recognizing that AI systems design is a rapidly evolving field, and I strive to stay up to date while expanding my capabilities.
+
+[Explore more of my Designwork here](link-to-repo)
+
+[Explore PromptLang DSL](link-to-repo)
