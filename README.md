@@ -23,5 +23,7 @@ I’m also developing a specialized AI prompt language (DSL) to bring more struc
 
 ## Connect  
 
-📧 Email me: joel.innerculture@mail.com  
-💡 Support my work on [Patreon](patreon.com/InnerCulture)
+If you’d like to collaborate or hire me for a project, reach out here:  
+joel.innerculture@gmail.com  
+
+If you’d like to support my ongoing work — in both AI design and holistic health — you can do so on [Patreon](patreon.com/InnerCulture).
