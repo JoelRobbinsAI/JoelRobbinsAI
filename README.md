@@ -1,4 +1,4 @@
-# Portfolio Repo
+# Portfolio Hub
 Portfolio of AI agents, prompt engineering, and interaction design work
 
 Hi, I’m Joel Robbins. I design agents and prompt methodologies to explore how humans and AI can work together with more depth and clarity.  
