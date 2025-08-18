@@ -1,4 +1,4 @@
-Certifications & Academic Training
+**Certifications & Academic Training**
 
 ​Master of Acupuncture & Oriental Medicine, Seattle Institute of Oriental Medicine, Seattle WA, September, 2011
 
