@@ -5,7 +5,7 @@ Hi, I’m Joel Robbins. I design agents and prompt methodologies to explore how 
 
 This is my profile hub, where you can learn about my philosophy and my credentials.  
 
-To try something right away, here’s a [Runnable Example](WWHW_Framework.md).  
+To try something right away, here’s a [Runnable Example](https://github.com/JoelRobbinsAI/Design_Work/blob/main/WWHW_Framework.md).  
 
 Having a bachelor’s in dietetics and a master’s in acupuncture, I bring high-level reasoning to AI systems design, creating agents with dynamic, evolving interactions. I hold full specializations in Prompt Engineering, AI Agent Development, and Responsible Generative AI, and have completed additional courses in Python and LangChain.
 
