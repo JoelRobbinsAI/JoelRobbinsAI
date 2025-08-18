@@ -20,3 +20,8 @@ I’m also developing a specialized AI prompt language (DSL) to bring more struc
 [Explore more of my Designwork ](link-to-repo)
 
 [Explore PromptLang DSL](link-to-repo)
+
+## Connect  
+
+📧 Email me: joel.innerculture@mail.com  
+💡 Support my work on [Patreon](patreon.com/InnerCulture)
