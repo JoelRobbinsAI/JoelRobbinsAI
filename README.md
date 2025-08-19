@@ -1,11 +1,11 @@
 # Portfolio Hub
 Portfolio of AI agents, prompt engineering, and interaction design work
 
-Hi, I’m Joel Robbins. I design agents and prompt methodologies to explore how humans and AI can work together with more depth and clarity.  
+​Hi, I’m Joel Robbins. I design AI agents and prompt methodologies to facilitate human-centric AI assistants that act as natural, responsive partners.
 
 This is my profile hub, where you can learn about my philosophy and my credentials.  
 
-To try something right away, here’s a [Runnable Example](https://github.com/JoelRobbinsAI/Design_Work/blob/main/WWHW_Framework.md).  
+[Click here foe a Runnable Example](https://github.com/JoelRobbinsAI/Design_Work/blob/main/WWHW_Framework.md).  
 
 Having a bachelor’s in dietetics and a master’s in acupuncture, I bring high-level reasoning to AI systems design, creating agents with dynamic, evolving interactions. I hold full specializations in Prompt Engineering, AI Agent Development, and Responsible Generative AI, and have completed additional courses in Python and LangChain.
 
