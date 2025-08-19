@@ -3,11 +3,11 @@ Portfolio of AI agents, prompt engineering, and interaction design work
 
 ​Hi, I’m Joel Robbins. I design AI agents and prompt methodologies to facilitate human-centric AI assistants that act as natural, responsive partners.
 
-This is my profile hub, where you can learn about my philosophy and my credentials.  
+This is my profile hub, where you can learn about my philosophy and my [Credentials](Certifications.md). 
 
 [Click here foe a Runnable Example](https://github.com/JoelRobbinsAI/Design_Work/blob/main/WWHW_Framework.md).  
 
-Having a bachelor’s in dietetics and a master’s in acupuncture, I bring high-level reasoning to AI systems design, creating agents with dynamic, evolving interactions. I hold full specializations in Prompt Engineering, AI Agent Development, and Responsible Generative AI, and have completed additional courses in Python and LangChain.
+With a bachelor’s in dietetics and a master’s in acupuncture, I bring a deep understanding of human dynamics and interpersonal relationships to my work. My unique background informs my approach to designing AI agents that maintain context awareness and a nuanced conversational ability, allowing them to assist with various real-world tasks. This practical experience is complemented by my formal training, which includes specializations in Prompt Engineering, AI Agent Development, and Responsible Generative AI, along with additional coursework in Python and LangChain.
 
 I build real-world AI assistants that maintain a persona and interact naturally in voice or text, keeping track of context, structured information, and user goals across a dynamic conversation. My designs often make use of a setup phase, where the AI begins by asking targeted questions to gather key details before the main interaction. This ensures the assistant has a clear foundation to work from, allowing it to hold coherence across the session while adapting fluidly to user needs. The agent then acts as a living, responsive partner, helping the user in ongoing tasks while evolving with their workflow.
 
