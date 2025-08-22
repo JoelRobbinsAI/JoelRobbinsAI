@@ -1,4 +1,4 @@
-# Portfolio Hub
+# Portfolio
 Portfolio of AI agents, prompt engineering, and interaction design work
 
 ​Hi, I’m Joel Robbins. ​I design prompt methodologies for AI assistants that are natural, responsive partners. I use complex, interconnected prompts to give AI agents a cohesive structure, allowing them to have multi-dimensional conversations and produce structured output.
