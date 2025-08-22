@@ -5,7 +5,7 @@ Portfolio of AI agents, prompt engineering, and interaction design work
 
 ​My background in acupuncture and dietetics gives me a unique lens for AI. It's taught me to approach problems with a deep understanding of human dynamics, which I use to design context-aware AI agents that have nuanced conversations. My hands-on experience is complemented by formal training in Prompt Engineering, AI Agent Development, and Responsible Generative AI.
 
-​I build real-world AI assistants that maintain a persona and interact naturally, keeping track of context, information, and user goals across a dynamic conversation. Each agent is designed for practical purposes, from assisting with content creation, health coaching and assessment, to supporting complex workflows in tradingnand other tasks.
+​I build real-world AI assistants that maintain a persona and interact naturally, keeping track of context, information, and user goals across a dynamic conversation. Each agent is designed for practical purposes, from assisting with content creation, health coaching and assessment, to supporting complex workflows in trading and other tasks.
 
 ​I’m also developing a specialized AI prompt language (DSL) to bring more structure and efficiency to prompt engineering. This ongoing work reflects my commitment to creating practical, scalable AI interactions.
 
