@@ -11,7 +11,7 @@ Portfolio of AI agents, prompt engineering, and interaction design work
 
 [Learn more about my Education & Credentials](Certifications.md).  
 
-[Explore more of my Design nwork ](https://github.com/JoelRobbinsAI/Design_Work.git)
+[Explore more of my Design work ](https://github.com/JoelRobbinsAI/Design_Work.git)
 
 [Explore PromptLang DSL](https://github.com/JoelRobbinsAI/PromptLang.git)
 
