@@ -5,7 +5,7 @@ Portfolio of AI agents, prompt engineering, and interaction design work
 
 [See a runnable example](WWHW_Framework.md) 
 
-[Try out a live agent]([tour_guide.md](https://github.com/JoelRobbinsAI/Design_Work/blob/main/tour_guide.md)) 
+[Try out a live agent]([tour_guide.md](https://github.com/JoelRobbinsAI/Design_Work/blob/main/tour_guide.md)
 
 ​My background in acupuncture and dietetics gives me a unique lens for AI. It's taught me to approach problems with a deep understanding of human dynamics, which I use to design context-aware AI agents that have nuanced conversations. My hands-on experience is complemented by formal training in Prompt Engineering, AI Agent Development, and Responsible Generative AI.
 
