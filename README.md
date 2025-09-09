@@ -17,7 +17,7 @@ Portfolio of AI agents, prompt engineering, and interaction design work
 
 [Explore more of my Design work ](https://github.com/JoelRobbinsAI/Design_Work.git)
 
-[Explore PromptLang DSL](https://github.com/JoelRobbinsAI/PromptLang.git)
+[Explore PromptLogic DSL](https://github.com/JoelRobbinsAI/PromptLogic)
 
 ## Connect  
 
