@@ -11,13 +11,9 @@ Portfolio of AI agents, prompt engineering, and interaction design work
 
 ​I build real-world AI assistants that maintain a persona and interact naturally, keeping track of context, information, and user goals across a dynamic conversation. Each agent is designed for practical purposes, from assisting with content creation, health coaching and assessment, to supporting complex workflows in trading and other tasks.
 
-​I’m also developing a specialized AI prompt language (DSL) to bring more structure and efficiency to prompt engineering. This ongoing work reflects my commitment to creating practical, scalable AI interactions.
-
 [Learn more about my Education & Credentials](Certifications.md).  
 
 [Explore more of my Design work ](https://github.com/JoelRobbinsAI/Design_Work.git)
-
-[Explore PromptLogic DSL](https://github.com/JoelRobbinsAI/PromptLogic)
 
 ## Connect  
 
