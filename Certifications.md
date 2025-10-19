@@ -18,6 +18,6 @@
 
 ​AI agents and agentic AI with python and generative AI (Single course), Vanderbilt University, Nashville, TN, July 27, 2025
 
-​Master LangChain with No Code Tools (Single course), Packt (Coursera), July 25, 2025
-
 ​Programming for Everybody (Single course), University of Michigan, Ann Arbor, MI, July 17, 2025
+
+Agentic AI with LangChain and LangGraph (Single Course), IBM, Armonk, NY, Sept 22nd, 2025
