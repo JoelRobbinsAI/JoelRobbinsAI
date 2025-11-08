@@ -10,7 +10,7 @@ I design and deploy AI agents that feel like natural conversation partners—sys
 
 I build functional AI agents using Python and sophisticated prompt architectures. My work focuses on conversation design: creating agents that track context, maintain consistent personas, and handle complex workflows naturally.
 
-My 20+ years in Chinese medicine—acupuncture, nutrition, and patient care—taught me to read human dynamics and design for nuanced interaction. Combined with training in AI Agent Development, Prompt Engineering, and Responsible Generative AI, I create agents that work in the real world: content assistants, health coaches, workflow automation, and specialized tools.
+My 20+ years in Chinese medicine and health education taught gave me a deep understanding of human dynamics and an appreciation for nuanced interaction. Combined with training in AI Agent Development, Python, Prompt Engineering and AI ethics, I create agents that work in the real world: content assistants, health coaches, workflow automation, and specialized tools.
 
 
 [Education & Credentials](Certifications.md) 
