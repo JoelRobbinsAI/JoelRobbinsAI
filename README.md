@@ -1,23 +1,23 @@
-# Portfolio
-Portfolio of AI agents, prompt engineering, and interaction design work
+**Joel Robbins – AI Conversation Designer**
 
-​Hi, I’m Joel Robbins. ​I design prompt methodologies for AI assistants that are natural, responsive partners. I use complex, interconnected prompts to give AI agents a cohesive structure, allowing them to have multi-dimensional conversations and produce structured output.
+I design and deploy AI agents that feel like natural conversation partners—systems that maintain context, adapt to users, and deliver structured results through thoughtful interaction design.
 
-[See a runnable example](WWHW_Framework.md) 
 
-[Try out my Botanical Tour Guide agent](https://github.com/JoelRobbinsAI/Design_Work/blob/main/tour_guide.md)
+[Try the CDFW Hatchery Agent](https://github.com/JoelRobbinsAI/Design_Work/blob/main/CDFW-hatchery.md) – A bilingual voice guide I built in Python for the California Department of Fish and Wildlife.
 
-​My background in acupuncture and dietetics gives me a unique lens for AI. It's taught me to approach problems with a deep understanding of human dynamics, which I use to design context-aware AI agents that have nuanced conversations. My hands-on experience is complemented by formal training in Prompt Engineering, AI Agent Development, and Responsible Generative AI.
 
-​I build real-world AI assistants that maintain a persona and interact naturally, keeping track of context, information, and user goals across a dynamic conversation. Each agent is designed for practical purposes, from assisting with content creation, health coaching and assessment, to supporting complex workflows in trading and other tasks.
+**What I Do**
 
-[Learn more about my Education & Credentials](Certifications.md).  
+I build functional AI agents using Python and sophisticated prompt architectures. My work focuses on conversation design: creating agents that track context, maintain consistent personas, and handle complex workflows naturally.
 
-[Explore more of my Design Work ](https://github.com/JoelRobbinsAI/Design_Work.git)
+My 20+ years in Chinese medicine—acupuncture, nutrition, and patient care—taught me to read human dynamics and design for nuanced interaction. Combined with training in AI Agent Development, Prompt Engineering, and Responsible Generative AI, I create agents that work in the real world: content assistants, health coaches, workflow automation, and specialized tools.
 
-## Connect  
 
-If you’d like to collaborate or hire me for a project, reach out here:  
-joel.innerculture@gmail.com  
+[Education & Credentials](Certifications.md) 
 
-If you’d like to support my ongoing work — in both AI design and holistic health — you can do so on [Patreon](https://patreon.com/InnerCulture).
+[Design Portfolio](https://github.com/JoelRobbinsAI/Design_Work.git)
+
+
+**Contact**
+Collaboration or hire: joel.innerculture@gmail.com
+Support my work: [Patreon](https://patreon.com/InnerCulture)
